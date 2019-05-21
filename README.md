@@ -143,7 +143,7 @@
 ## 软件类
 
 [amazing-apps](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn) | Windows绝赞应用 
-[胡萝卜周](http://www.carrotchou.blog/) | 软件分享真正领跑者
+[小C驻留地](https://xcshare.com) | 软件分享真正领跑者
 
 ------
 
